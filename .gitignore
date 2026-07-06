@@ -1,0 +1,25 @@
+# Secrets — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# Finished/dated reports must live only in Google Drive, never in the repo.
+# Ignore everything under reports/ except the format templates.
+reports/**/*.md
+!reports/**/_TEMPLATE.md
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local scratch
+scratch/
+tmp/
+*.tmp

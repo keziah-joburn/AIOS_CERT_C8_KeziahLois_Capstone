@@ -23,6 +23,11 @@ Read `about-me/professional-profile.md`, `about-me/recurring-priorities.md`, and
 
 **Red line:** never invent numbers. If a metric wasn't reported, say "not tracked" rather than guessing.
 
+**Writing style** (applies to both the report and the Slack message):
+- No em dashes. Use a period, comma, or parentheses instead.
+- No AI-sounding stock phrases or transitions: "it's important to note," "in today's fast-paced," "dive into," "unlock," "seamless," "leverage," "robust," "furthermore," "moreover," "overall," "in conclusion."
+- Write like Keziah would actually type it: short, direct, first person. Match `communication-prefs.md`.
+
 ## Step 1: Ask about the week
 
 Ask Keziah (use AskUserQuestion where useful):

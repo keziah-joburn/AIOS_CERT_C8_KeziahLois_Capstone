@@ -29,4 +29,5 @@ Step-by-step instructions for the workflow...
 - Add `disable-model-invocation: true` to the frontmatter for skills with side
   effects you only want to trigger manually.
 
-_(A skill will be added here soon.)_
+## Available skills
+- **`AIOS_CERT_C8_KeziahLois_WeeklyReport`** (`/weekly-report`) — asks about the week, drafts the weekly report, uploads it to Drive, and sends the Slack summary.
